@@ -1,3 +1,3 @@
 # web-scraping-python-beautifulsoup
-
-source: https://marketdata.set.or.th/mkt/sectorquotation.do
+web scraping using beautifulsoup in python
+data source: https://marketdata.set.or.th/mkt/sectorquotation.do
